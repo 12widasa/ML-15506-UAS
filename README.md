@@ -15,4 +15,4 @@ git clone https://github.com/12widasa/ML-15506-UAS.git
 
 ## Dataset
 
-Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality)]
+Original dataset bisa ditemukan disini -> ![Linkedin Badge](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality)
